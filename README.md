@@ -149,3 +149,4 @@ networks:
   proxy:
     name: nginx-proxy
     external: true
+    external: true
